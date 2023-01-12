@@ -7,6 +7,7 @@
 - Spring Boot
 - Maven
 - Lombok
+- Swagger
 
 ## Endpoints
 
@@ -39,6 +40,8 @@
   "stockQuantity" : 155
 }
 ```
+(Para obter mais exemplos consultar a documentação do Swagger)
+
 
 ## Como rodar o projeto?
 
